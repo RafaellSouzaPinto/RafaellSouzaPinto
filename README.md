@@ -1,7 +1,7 @@
 # Rafael de Souza Pinto
 **`Desenvolvedor Full Stack | Estudante de Análise e Desenvolvimento de Sistemas`**
 
-👋 Olá! Me chamo **Rafael de Souza Pinto**, tenho 18 anos e sou apaixonado por tecnologia e inovação.  
+👋 Olá! Me chamo **Rafael de Souza Pinto**.  
 Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **FIAP**, uma das instituições mais reconhecidas do país na área de tecnologia.
 
 ## 💼 Projetos em Destaque
